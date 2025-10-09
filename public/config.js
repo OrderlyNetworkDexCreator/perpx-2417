@@ -25,7 +25,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "",
   "VITE_SEO_SITE_NAME": "PerpX – Trade Perpetuals Now",
   "VITE_SEO_SITE_DESCRIPTION": "PerpX is a next-generation decentralized exchange (DEX) built for perpetual contract trading. Designed with speed, transparency, and fairness in mind, PerpX lets traders access deep liquidity and low fees without giving up control of their assets.",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/perpx-2417/",
+  "VITE_SEO_SITE_URL": "https://trade.perpx.now",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "@PerpX_Now",
